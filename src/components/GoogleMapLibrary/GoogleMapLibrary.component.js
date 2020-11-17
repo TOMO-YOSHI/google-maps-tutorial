@@ -3,7 +3,8 @@ import GoogleMapReact from 'google-map-react';
 import './GoogleMapLibrary.style.css';
 
 // require("dotenv").config();
-const api_key = process.env.REACT_APP_GOOGLE_MAPS_API_KEY;
+// const api_key = process.env.REACT_APP_GOOGLE_MAPS_API_KEY;
+const api_key = "AIzaSyBeNxnshtVO9hcgIacX_gHmqtFEY2nm49o";
 
 console.log(api_key);
 
